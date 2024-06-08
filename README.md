@@ -25,12 +25,6 @@ This project aims to develop an AI-based online proctoring system to monitor and
 7. **Audio Detection (audio_detection.py)**
    - Monitors audio input to detect unauthorized sounds or communication during the exam.
 
-## Usage
-1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the respective Python scripts for the desired features.
-4. Customize parameters or integrate the features into your existing online proctoring system as needed.
-
 ## Requirements
 - Python 3.x
 - OpenCV
